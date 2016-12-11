@@ -3,7 +3,7 @@ import re
 
 string = """<title>Babel</title>
 <paragraph>
-<sentence>Languages shapehow you solve problems.</sentence>
+<sentence>Languages shape how you solve problems.</sentence>
 <SENTENCE>Be curious learn a new language.</SENTENCE>
 </paragraph>"""
 
